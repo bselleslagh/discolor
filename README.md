@@ -40,3 +40,25 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+
+## Deploying to Vercel
+
+To deploy this app to Vercel:
+
+1. Import your repository in Vercel
+2. Configure the following settings:
+
+| Setting | Value |
+|---------|-------|
+| Framework Preset | SvelteKit |
+| Root Directory | `./` |
+| Build Command | `bun run build` |
+| Output Directory | `svelte-kit/output` |
+| Install Command | `bun install` |
+
+3. Add the following environment variables:
+
+| Variable | Description |
+|----------|-------------|
+| `PUBLIC_CONVEX_URL` | Your Convex deployment URL |
+| `RESEND_API_KEY` | Your Resend API key for email functionality |
