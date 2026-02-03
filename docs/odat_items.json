@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "item_id": "D1",
+      "item_text": "I put people under pressure.",
+      "factor": "D",
+      "color": "Red"
+    },
+    {
+      "item_id": "D2",
+      "item_text": "I have a strong need for power.",
+      "factor": "D",
+      "color": "Red"
+    },
+    {
+      "item_id": "D3",
+      "item_text": "I try to outdo others.",
+      "factor": "D",
+      "color": "Red"
+    },
+    {
+      "item_id": "D4",
+      "item_text": "I am always on the look out for ways to make money.",
+      "factor": "D",
+      "color": "Red"
+    },
+    {
+      "item_id": "I1",
+      "item_text": "I enjoy being part of a loud crowd.",
+      "factor": "I",
+      "color": "Yellow"
+    },
+    {
+      "item_id": "I2",
+      "item_text": "I want strangers to love me.",
+      "factor": "I",
+      "color": "Yellow"
+    },
+    {
+      "item_id": "I3",
+      "item_text": "I joke around a lot.",
+      "factor": "I",
+      "color": "Yellow"
+    },
+    {
+      "item_id": "I4",
+      "item_text": "I make lots of noise.",
+      "factor": "I",
+      "color": "Yellow"
+    },
+    {
+      "item_id": "S1",
+      "item_text": "I hesitate to criticize other people's ideas.",
+      "factor": "S",
+      "color": "Green"
+    },
+    {
+      "item_id": "S2",
+      "item_text": "I value cooperation over competition.",
+      "factor": "S",
+      "color": "Green"
+    },
+    {
+      "item_id": "S3",
+      "item_text": "I just want everyone to be equal.",
+      "factor": "S",
+      "color": "Green"
+    },
+    {
+      "item_id": "S4",
+      "item_text": "I seldom toot my own horn.",
+      "factor": "S",
+      "color": "Green"
+    },
+    {
+      "item_id": "C1",
+      "item_text": "I am emotionally reserved.",
+      "factor": "C",
+      "color": "Blue"
+    },
+    {
+      "item_id": "C2",
+      "item_text": "I read the fine print.",
+      "factor": "C",
+      "color": "Blue"
+    },
+    {
+      "item_id": "C3",
+      "item_text": "I love order and regularity.",
+      "factor": "C",
+      "color": "Blue"
+    },
+    {
+      "item_id": "C4",
+      "item_text": "My first reaction to an idea is to see its flaws.",
+      "factor": "C",
+      "color": "Blue"
+    }
+  ],
+  "response_scale": {
+    "response_min": 1,
+    "response_max": 5,
+    "response_labels": [
+      "Disagree",
+      "Slightly Disagree",
+      "Neutral",
+      "Slightly Agree",
+      "Agree"
+    ]
+  },
+  "source": {
+    "urls": [
+      "https://openpsychometrics.org/tests/ODAT/development/",
+      "https://openpsychometrics.org/tests/ODAT/",
+      "https://openpsychometrics.org/about/"
+    ],
+    "test_name": "OSPP DISC Assessment Test 1.0",
+    "source_updated_date": "2026-02-03",
+    "data_capture_date": "2026-02-03"
+  },
+  "license": {
+    "license_name": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution_text": "Based on the OSPP DISC Assessment Test 1.0 developed by the Open-Source Psychometrics Project (openpsychometrics.org). The 16 questionnaire items are the property of the Open-Source Psychometrics Project and are used under the CC BY-NC-SA 4.0 license."
+  },
+  "disclaimer_text": "This test is provided for educational and entertainment uses only. It is not clinically administered and the results are not suitable for basing important decisions on. If the results say something about you that you do not think is true, you are right and it is wrong."
+}

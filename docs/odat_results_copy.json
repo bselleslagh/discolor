@@ -1,0 +1,194 @@
+{
+  "colors": {
+    "Red": {
+      "color_name": "Red",
+      "factor": "D",
+      "factor_full_name": "Dominance",
+      "short_summary": "Direct, results-oriented, and competitive. Red personalities are driven to achieve and take charge of situations.",
+      "traits": [
+        "Decisive",
+        "Competitive",
+        "Direct in communication",
+        "Goal-focused",
+        "Risk-tolerant",
+        "Independent",
+        "Strong-willed",
+        "Action-oriented"
+      ],
+      "strengths": [
+        "Gets things done quickly and efficiently",
+        "Comfortable making tough decisions under pressure",
+        "Drives projects forward and overcomes obstacles",
+        "Sets ambitious goals and pursues them relentlessly",
+        "Not afraid to challenge the status quo"
+      ],
+      "watch_outs": [
+        "May come across as impatient or overly blunt",
+        "Can overlook others' feelings in pursuit of results",
+        "May dominate conversations or decisions",
+        "Risk of burnout from constant drive for achievement",
+        "May struggle to delegate or trust others with tasks"
+      ],
+      "communication_tips": [
+        "Be direct and get to the point quickly",
+        "Focus on results, outcomes, and bottom-line impact",
+        "Present options and let them make decisions",
+        "Avoid excessive small talk or lengthy explanations",
+        "Respect their time and come prepared"
+      ],
+      "typical_motivators": [
+        "Authority and control",
+        "Achievement and winning",
+        "New challenges and opportunities",
+        "Recognition for results",
+        "Autonomy and independence"
+      ],
+      "disclaimer_line": "This description is for educational purposes only and reflects general tendencies, not fixed personality traits."
+    },
+    "Yellow": {
+      "color_name": "Yellow",
+      "factor": "I",
+      "factor_full_name": "Influence",
+      "short_summary": "Enthusiastic, social, and optimistic. Yellow personalities thrive on interaction and are naturally persuasive.",
+      "traits": [
+        "Outgoing",
+        "Enthusiastic",
+        "Optimistic",
+        "Persuasive",
+        "Collaborative",
+        "Expressive",
+        "Spontaneous",
+        "People-oriented"
+      ],
+      "strengths": [
+        "Builds rapport and relationships easily",
+        "Creates positive and energetic team environments",
+        "Skilled at motivating and inspiring others",
+        "Adaptable and open to new ideas",
+        "Natural ability to network and connect people"
+      ],
+      "watch_outs": [
+        "May overcommit or struggle with follow-through",
+        "Can be disorganized or overlook details",
+        "May avoid difficult conversations to maintain harmony",
+        "Risk of talking more than listening",
+        "Can be impulsive in decision making"
+      ],
+      "communication_tips": [
+        "Be friendly and allow time for social connection",
+        "Show enthusiasm and energy in interactions",
+        "Use stories and examples to illustrate points",
+        "Provide recognition and positive feedback",
+        "Keep the atmosphere light and collaborative"
+      ],
+      "typical_motivators": [
+        "Social recognition and popularity",
+        "Fun and enjoyable experiences",
+        "Collaboration with others",
+        "Variety and new experiences",
+        "Public acknowledgment of contributions"
+      ],
+      "disclaimer_line": "This description is for educational purposes only and reflects general tendencies, not fixed personality traits."
+    },
+    "Green": {
+      "color_name": "Green",
+      "factor": "S",
+      "factor_full_name": "Steadiness",
+      "short_summary": "Supportive, patient, and reliable. Green personalities value stability and are skilled at creating harmony.",
+      "traits": [
+        "Patient",
+        "Reliable",
+        "Supportive",
+        "Calm",
+        "Team-oriented",
+        "Good listener",
+        "Consistent",
+        "Humble"
+      ],
+      "strengths": [
+        "Creates stable and supportive environments",
+        "Excellent at listening and understanding others",
+        "Reliable and follows through on commitments",
+        "Skilled at mediating conflicts and finding consensus",
+        "Provides steady, consistent performance over time"
+      ],
+      "watch_outs": [
+        "May resist change or avoid taking initiative",
+        "Can be overly accommodating at personal expense",
+        "May struggle to voice concerns or set boundaries",
+        "Risk of being taken advantage of due to helpfulness",
+        "Can be slow to make decisions when pressed"
+      ],
+      "communication_tips": [
+        "Be sincere and take time to build trust",
+        "Avoid rushing or pressuring for quick decisions",
+        "Acknowledge their contributions and reliability",
+        "Provide clear expectations and time to process",
+        "Create a safe space for them to share concerns"
+      ],
+      "typical_motivators": [
+        "Stability and security",
+        "Harmonious relationships",
+        "Appreciation for loyalty and support",
+        "Clearly defined expectations",
+        "Team success over individual recognition"
+      ],
+      "disclaimer_line": "This description is for educational purposes only and reflects general tendencies, not fixed personality traits."
+    },
+    "Blue": {
+      "color_name": "Blue",
+      "factor": "C",
+      "factor_full_name": "Conscientiousness",
+      "short_summary": "Analytical, precise, and systematic. Blue personalities prioritize accuracy and quality in their work.",
+      "traits": [
+        "Analytical",
+        "Precise",
+        "Systematic",
+        "Reserved",
+        "Quality-focused",
+        "Detail-oriented",
+        "Logical",
+        "Cautious"
+      ],
+      "strengths": [
+        "Produces high-quality, accurate work",
+        "Thinks through problems systematically",
+        "Identifies potential issues before they become problems",
+        "Maintains high standards and consistency",
+        "Skilled at research, analysis, and documentation"
+      ],
+      "watch_outs": [
+        "May become paralyzed by analysis or perfectionism",
+        "Can be overly critical of self and others",
+        "May struggle with ambiguity or quick changes",
+        "Risk of appearing cold or detached",
+        "Can miss the big picture while focusing on details"
+      ],
+      "communication_tips": [
+        "Provide data, facts, and logical reasoning",
+        "Be prepared to answer detailed questions",
+        "Give them time to process and analyze information",
+        "Avoid vague statements or unsupported claims",
+        "Respect their need for accuracy and thoroughness"
+      ],
+      "typical_motivators": [
+        "Quality and excellence",
+        "Clear standards and expectations",
+        "Time to do things correctly",
+        "Logical processes and procedures",
+        "Recognition for expertise and accuracy"
+      ],
+      "disclaimer_line": "This description is for educational purposes only and reflects general tendencies, not fixed personality traits."
+    }
+  },
+  "blended_result_template": {
+    "intro": "Your results show a blend of {colors}, indicating you draw on multiple behavioral styles depending on the situation.",
+    "note": "People with blended profiles often adapt their approach based on context, drawing on different strengths as needed."
+  },
+  "general_disclaimer": "This assessment is provided for educational and self-awareness purposes only. DISC profiles describe behavioral tendencies and preferences, not fixed personality traits or abilities. Results should not be used for hiring decisions, clinical diagnosis, or any high-stakes evaluation. If the results do not seem accurate to you, trust your own self-knowledge.",
+  "attribution": {
+    "source": "Based on the OSPP DISC Assessment Test 1.0 by the Open-Source Psychometrics Project",
+    "license": "Result descriptions are original content created for this application",
+    "items_license": "Questionnaire items used under CC BY-NC-SA 4.0"
+  }
+}
